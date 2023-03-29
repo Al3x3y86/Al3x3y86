@@ -49,6 +49,7 @@ I am a beginner in the world of IT development. Now I'm applying for a position 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://dataenginer.ru/wp-content/uploads/2022/08/image-14-267x176.png" title="Liquibase" alt="Liquibase" width="40" height="40"/>&nbsp;
   <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Maven.png" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
+  <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/vertical-logo-monochromatic-2822952.png" title="Docker " alt="Docker " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40"    height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
