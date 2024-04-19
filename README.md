@@ -31,9 +31,9 @@
   
 ### :woman_technologist: About Me :
     
-I am a beginner in the world of IT development. Now I'm applying for a position java junior developer. 
+I am a beginner in the world of IT development. Now I'm applying for a position Python junior developer. 
 
-- :telescope: I'm studying Java development at Skypro Online University!
+- :telescope: I'm studying Python development at Urban Online University!
 
 - :zap: I want to learn a new profession and find a job.
 
