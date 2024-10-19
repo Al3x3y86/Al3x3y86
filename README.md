@@ -44,18 +44,18 @@ I am a beginner in the world of IT development. Now I'm applying for a position 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png";
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="40" height="40";
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40";
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python" alt="Python" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" title="PyCharm" alt="PyCharm" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://dataenginer.ru/wp-content/uploads/2022/08/image-14-267x176.png" title="Liquibase" alt="Liquibase" width="40" height="40"/>&nbsp;
   <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Maven.png" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
-  <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/vertical-logo-monochromatic-2822952.png" title="Docker " alt="Docker " width="40" height="40"/>&nbsp;
+  <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/vertical-logo-monochromatic-2822952.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40"    height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 ---
