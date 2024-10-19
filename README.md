@@ -62,7 +62,3 @@ I am a beginner in the world of IT development. Now I'm applying for a position 
 
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Al3x3y86&show_icons=true&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats) 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al3x3y86&show_icons=true&theme=dark&background=000000) |
-
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
-
-
